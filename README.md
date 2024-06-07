@@ -17,21 +17,13 @@
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-```yml
----
-title: Xixian Liang
-date: 2024-06-07
----
-```
 # Xixian Liang
 
----
 
 ## **Personal Information**
 - **E-mail:** 51265902107@stu.ecnu.edu.cn
 - **Address:** 3663 Zhongshan Rd. (N), Shanghai, China
 
----
 
 ## **Education**
 ### MSc. in Software Science and Technology
@@ -43,7 +35,6 @@ date: 2024-06-07
 **South China University of Technology**  
 *September 2019 - June 2023*
 
----
 
 ## **Self introduction**
 I am currently a master student at the Software Engineering Institute of [East China Normal University](https://english.ecnu.edu.cn/), supervised by Prof [Ting Su](https://tingsu.github.io/). 
