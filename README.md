@@ -38,7 +38,7 @@
 
 ## **Self introduction**
 I am currently a master student at the Software Engineering Institute of [East China Normal University](https://english.ecnu.edu.cn/), supervised by Prof [Ting Su](https://tingsu.github.io/). 
-My research focuses on automatic UI testing for mobile Apps. Currently, I'm working on HarmonyOS app. My previous work includes Property-based fuzzing on Android Apps and Automatic testing script generation on data manipulate function on Android apps.
+My research focuses on automatic UI testing for mobile Apps. Currently, I'm working on HarmonyOS app. My previous work includes Property-based fuzzing on Android Apps and Automatic testing script generation for data manipulate function on Android apps.
 
 
 <footer>
