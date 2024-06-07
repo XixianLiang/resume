@@ -1,5 +1,5 @@
 ## Personal Information
-- **E-mail:** 5126592107@stu.ecnu.edu.cn
+- **E-mail:** 51265902107@stu.ecnu.edu.cn
 - **Address:** 3663 Zhongshan Rd. (N), Shanghai, China
 
 ## Education
