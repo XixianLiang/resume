@@ -27,18 +27,18 @@
 
 ## **Education**
 ### MSc. in Software Science and Technology
-**East China Noarmal University**  
+**[East China Noarmal University](https://english.ecnu.edu.cn/)**  
 *September 2023 - Expected June 2026*
 
 
 ### BSc. in Automation Science and Engineering
-**South China University of Technology**  
+**[South China University of Technology](https://www.scut.edu.cn/en/)**  
 *September 2019 - June 2023*
 
 
 ## **Self introduction**
-I am currently a master student at the Software Engineering Institute of [East China Normal University](https://english.ecnu.edu.cn/), supervised by Prof [Ting Su](https://tingsu.github.io/). 
-My research focuses on automatic UI testing for mobile Apps. Currently, I'm working on HarmonyOS app. My previous work includes Property-based fuzzing on Android Apps and Automatic testing script generation for data manipulate function on Android apps.
+I am currently a master student at the Software Engineering Institute of East China Normal University, supervised by Prof [Ting Su](https://tingsu.github.io/). 
+My research focuses on automatic UI testing for mobile Apps. Currently, [I'm working on HarmonyOS app](https://github.com/XixianLiang/HMDroidbot). My previous work includes Property-based fuzzing on Android Apps and Automatic testing script generation for data manipulate function on Android apps.
 
 
 <footer>
