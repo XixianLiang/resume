@@ -50,8 +50,8 @@ Supported by HUAWEI Huyanglin funding (华为胡杨林基金)
 - Developing an open source framwork for HarmonyOS NEXT apps.
 - Developing uiautomator2 for HarmonyOS NEXT.
 
-by-product:
-[HMDroidbot, open-source explorer for HarmonyOS NEXT apps](https://github.com/XixianLiang/HMDroidbot). 
+> by-product:
+> [HMDroidbot, open-source explorer for HarmonyOS NEXT apps](https://github.com/XixianLiang/HMDroidbot). 
 
 2. LLM for automatic testing script generation for Data manipulate bugs
 Trying to solve an easier version of automatic Natural Language -> Script translation.
