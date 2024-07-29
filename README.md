@@ -27,12 +27,12 @@
 
 ## **Education**
 ### MSc. in Software Science and Technology
-**[East China Noarmal University](https://english.ecnu.edu.cn/)**  
+**[East China Noarmal University](https://english.ecnu.edu.cn/)**
 *September 2023 - Expected June 2026*
 
 
 ### BSc. in Automation Science and Engineering
-**[South China University of Technology](https://www.scut.edu.cn/en/)**  
+**[South China University of Technology](https://www.scut.edu.cn/en/)**
 *September 2019 - June 2023*
 
 
@@ -42,6 +42,20 @@ My research focuses on automatic UI testing for mobile Apps. Currently, I'm work
 
 Also, I'm interested in LLM for mobile apps testing. I'm also developing an automatic testing script generator for data manipulate functions with LLM. And my previous work includes Property-based fuzzing on Android Apps.
 
+### Current Working list & research interest (updated 2024/07/29)
+1. Static Analysis for Guided GUI testing
+Supported by HUAWEI Huyanglin funding (华为胡杨林基金)
+
+- Working on guided GUI testing algorithm based on static analysis.
+- Developing an open source framwork for HarmonyOS NEXT apps.
+- Developing uiautomator2 for HarmonyOS NEXT.
+
+by-product:
+[HMDroidbot, open-source explorer for HarmonyOS NEXT apps](https://github.com/XixianLiang/HMDroidbot). 
+
+2. LLM for automatic testing script generation for Data manipulate bugs
+Trying to solve an easier version of automatic Natural Language -> Script translation.
+- Developing a LLM agent for testing script generation.
 
 <footer>
 
