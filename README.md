@@ -44,6 +44,7 @@ Also, I'm interested in LLM for mobile apps testing. I'm also developing an auto
 
 ## Current Working list & research interest (updated 2024/07/29)
 **1) Static Analysis for Guided GUI testing**
+
 Supported by HUAWEI Huyanglin funding (华为胡杨林基金)
 
 - Working on guided GUI testing algorithm based on static analysis.
