@@ -27,12 +27,16 @@
 
 ## **Education**
 ### MSc. in Software Science and Technology
+
 **[East China Noarmal University](https://english.ecnu.edu.cn/)**
+
 *September 2023 - Expected June 2026*
 
 
 ### BSc. in Automation Science and Engineering
+
 **[South China University of Technology](https://www.scut.edu.cn/en/)**
+
 *September 2019 - June 2023*
 
 
