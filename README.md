@@ -21,7 +21,7 @@
 
 
 ## **Personal Information**
-- **E-mail:** xixian@stu.ecnu.edu.cn
+- **E-mail:** [xixian@stu.ecnu.edu.cn](mailto:xixian@stu.ecnu.edu.cn)
 - **Address:** 3663 Zhongshan Rd. (N), Shanghai, China
 
 
