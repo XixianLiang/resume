@@ -42,14 +42,14 @@
 
 ## **Self introduction**
 I am currently a master student at the Software Engineering Institute of East China Normal University, supervised by Prof [Ting Su](https://tingsu.github.io/). 
-My research focuses on automatic UI testing for mobile Apps. Currently, I'm working on HarmonyOS NEXT app. Our reaserch project, which aims at enhencing the app exploration with the power of static analysis, is supported by HUAWEI Huyanglin funding(华为胡杨林基金), . You can access one of our production during this project. [HMDroidbot, open-source explorer for HarmonyOS NEXT apps](https://github.com/XixianLiang/HMDroidbot). 
+My research focuses on automatic UI testing for mobile Apps. Currently, I'm working on HarmonyOS NEXT app. Our reaserch project, which aims at enhencing the app exploration with the power of static analysis, is supported by HUAWEI. You can access one of our production during this project. [HMDroidbot, open-source explorer for HarmonyOS NEXT apps](https://github.com/XixianLiang/HMDroidbot). 
 
 Also, I'm interested in LLM for mobile apps testing. I'm also developing an automatic testing script generator for data manipulate functions with LLM. And my previous work includes Property-based fuzzing on Android Apps.
 
 ## Current Working list & research interest (updated 2024/07/29)
 **1) Static Analysis for Guided GUI testing**
 
-Supported by HUAWEI Huyanglin funding (华为胡杨林基金)
+Supported by HUAWEI
 
 - Working on guided GUI testing algorithm based on static analysis.
 - Developing an open source GUI testing framwork for HarmonyOS NEXT apps.
