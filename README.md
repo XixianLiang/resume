@@ -47,7 +47,7 @@ My research focuses on automatic UI testing for mobile Apps. Currently, I'm work
 Also, I'm interested in LLM for mobile apps testing. I'm also developing an automatic testing script generator for data manipulate functions with LLM. And my previous work includes Property-based fuzzing on Android Apps.
 
 ## Current Working list & research interest (updated 2024/09/18)
-**1)Automatic proprerty generation for Data manipulated function on Android apps.
+**1)Automatic proprerty generation for Data manipulated function on Android apps.**
 
 **2) Static Analysis for Guided GUI testing**
 
