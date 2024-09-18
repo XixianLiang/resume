@@ -46,22 +46,17 @@ My research focuses on automatic UI testing for mobile Apps. Currently, I'm work
 
 Also, I'm interested in LLM for mobile apps testing. I'm also developing an automatic testing script generator for data manipulate functions with LLM. And my previous work includes Property-based fuzzing on Android Apps.
 
-## Current Working list & research interest (updated 2024/07/29)
-**1) Static Analysis for Guided GUI testing**
+## Current Working list & research interest (updated 2024/09/18)
+**1)Automatic proprerty generation for Data manipulated function on Android apps.
+
+**2) Static Analysis for Guided GUI testing**
 
 Supported by HUAWEI
 
 - Working on guided GUI testing algorithm based on static analysis.
-- Developing an open source GUI testing framwork for HarmonyOS NEXT apps.
-- Developing uiautomator2 for HarmonyOS NEXT.
 
 > by-product:
 > [HMDroidbot, open-source explorer for HarmonyOS NEXT apps](https://github.com/XixianLiang/HMDroidbot). 
-
-**2) LLM for automatic testing script generation for Data manipulate bugs**
-
-  Trying to solve an easier version of automatic Natural Language -> Script translation.
-- Developing a LLM agent for testing script generation.
 
 <footer>
 
