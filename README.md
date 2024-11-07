@@ -28,7 +28,7 @@
 ## **Education**
 ### MSc. in Software Science and Technology
 
-**[East China Noarmal University](https://english.ecnu.edu.cn/)**
+**[East China Normal University](https://english.ecnu.edu.cn/)**
 
 *September 2023 - Expected June 2026*
 
