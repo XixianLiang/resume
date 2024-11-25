@@ -63,6 +63,7 @@ Supported by HUAWEI
 [Kea, property-based testing framwork for Mobile Apps](https://github.com/ecnusse/Kea)
 
 - The developer of Kea for HarmonyOS
+- Maintainer of Kea
 
 <footer>
 
