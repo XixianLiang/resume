@@ -40,6 +40,10 @@
 *September 2019 - June 2023*
 
 ## **Internship**
+### HUAWEI - CBG - AI Software Engineer
+
+*June 2025 -*
+
 ### ByteDance - Lark - Software Development Engineer in Test
 
 *February 2025 - April 2025*
@@ -49,6 +53,7 @@ I am currently a master student at the Software Engineering Institute of East Ch
 My research focuses on automatic UI testing for mobile Apps. Especially for functional bugs detecting.
 
 ### Projects
+- [Kea2, Fusing automated UI testing with scripts for effectively fuzzing Android apps](https://github.com/ecnusse/Kea2)
 - [Kea, Property-based Testing for Mobile GUI Apps](https://github.com/ecnusse/Kea)
 - [HMDroidbot, A lightweight HarmonyOS NEXT app tester](https://github.com/ecnusse/HMDroidbot)
 - [HarmonyOS-mcp-server, MCP server for manupulating HarmonyOS next devices](https://github.com/XixianLiang/HarmonyOS-mcp-server)
