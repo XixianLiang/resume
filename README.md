@@ -47,10 +47,10 @@
 *February 2025 - April 2025*
 
 ## **Publication**
-- **Kea2: Practical Property-based Testing for Mobile Apps**  
-  *__Xixian Liang__*, *Cheng Peng, Bo Ma, Xiangchen Shen, Yiheng Xiong, Ting Su*
-  **ESEC/FSE 2026 (Tool Demo), CCF-A, Accepted.**  
-  [[Code]](https://github.com/ecnusse/Kea2) · [[Demo Video]](https://youtu.be/HS4rTCcaSPE)
+### Kea2: Practical Property-based Testing for Mobile Apps
+*__Xixian Liang__*, *Cheng Peng, Bo Ma, Xiangchen Shen, Yiheng Xiong, Ting Su*
+  
+*ESEC/FSE 2026 (Tool Demo), CCF-A, Accepted.* [[Code]](https://github.com/ecnusse/Kea2) · [[Demo Video]](https://youtu.be/HS4rTCcaSPE)
 
 ## **Self introduction**
 I am currently a master student at the Software Engineering Institute of East China Normal University, supervised by Prof [Ting Su](https://tingsu.github.io/). 
