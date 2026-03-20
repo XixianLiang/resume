@@ -48,7 +48,7 @@
 
 ## **Publication**
 - **Kea2: Practical Property-based Testing for Mobile Apps**  
-  *__Xixian Liang__*, *Cheng Peng, Bo Ma, Xiangchen Shen, Yiheng Xiong, Ting Su**  
+  *__Xixian Liang__*, *Cheng Peng, Bo Ma, Xiangchen Shen, Yiheng Xiong, Ting Su*
   **ESEC/FSE 2026 (Tool Demo), CCF-A, Accepted.**  
   [[Code]](https://github.com/ecnusse/Kea2) · [[Demo Video]](https://youtu.be/HS4rTCcaSPE)
 
