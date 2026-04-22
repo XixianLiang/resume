@@ -317,6 +317,17 @@ a:not(.chip-link):hover {
   line-height: 1.7;
 }
 
+.item-list {
+  margin: 0.8rem 0 0;
+  padding-left: 1.1rem;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.item-list li + li {
+  margin-top: 0.35rem;
+}
+
 .publication {
   background:
     linear-gradient(180deg, rgba(13, 110, 110, 0.06), rgba(13, 110, 110, 0)),
