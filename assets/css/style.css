@@ -87,7 +87,7 @@ a:not(.chip-link):hover {
 
 .resume-layout {
   display: grid;
-  grid-template-columns: 360px minmax(0, 1fr);
+  grid-template-columns: 380px minmax(0, 1fr);
   gap: 1.25rem;
 }
 
