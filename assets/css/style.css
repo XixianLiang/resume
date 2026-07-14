@@ -126,6 +126,13 @@ a:not(.chip-link):hover {
   line-height: 0.95;
 }
 
+.chinese-name {
+  display: block;
+  margin-top: 0.22em;
+  font-size: 0.55em;
+  line-height: 1;
+}
+
 .tagline {
   margin: 0;
   color: var(--accent-deep);
