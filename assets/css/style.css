@@ -178,7 +178,7 @@ a:not(.chip-link):hover {
 }
 
 .contact-row {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: 0.55rem;
 }
