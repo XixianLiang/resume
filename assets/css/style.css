@@ -100,7 +100,7 @@ a:not(.chip-link):hover {
 }
 
 .sidebar {
-  padding: 1.75rem;
+  padding: 1.25rem 1.75rem 1.75rem;
   position: sticky;
   top: 2rem;
   align-self: start;
@@ -119,18 +119,37 @@ a:not(.chip-link):hover {
   text-transform: uppercase;
 }
 
+.profile-header {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.portrait {
+  display: block;
+  width: clamp(6rem, 31vw, 8.75rem);
+  height: auto;
+  border-radius: var(--radius-sm);
+}
+
 .sidebar h1 {
-  margin: 1rem 0 0.35rem;
-  font-family: "Iowan Old Style", "Palatino Linotype", serif;
-  font-size: clamp(2.2rem, 4vw, 3.1rem);
-  line-height: 0.95;
+  margin: 0 0 0.4rem;
+  font-family: Baskerville, "Baskerville Old Face", "Palatino Linotype", Georgia, serif;
+  font-size: clamp(2.25rem, 7.5vw, 2.625rem);
+  font-weight: 600;
+  line-height: 0.96;
+  text-wrap: balance;
 }
 
 .chinese-name {
   display: block;
-  margin-top: 0.22em;
-  font-size: 0.55em;
-  line-height: 1;
+  margin-top: 0.3em;
+  font-family: "Songti SC", "Noto Serif CJK SC", SimSun, serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.06em;
 }
 
 .tagline {
@@ -273,6 +292,54 @@ a:not(.chip-link):hover {
   gap: 1rem;
 }
 
+.content > .section:first-of-type {
+  margin-top: 0;
+}
+
+.talk-list article {
+  display: grid;
+  grid-template-columns: 3.5rem minmax(0, 1fr);
+  grid-template-areas: "year title" ". venue";
+  align-items: baseline;
+  gap: 0.3rem 1rem;
+  padding: 1rem 0;
+}
+
+.talk-list article:first-child {
+  padding-top: 0;
+}
+
+.talk-list article + article {
+  border-top: 1px solid var(--line);
+}
+
+.talk-venue {
+  grid-area: venue;
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.talk-list time {
+  grid-area: year;
+  color: var(--accent-deep);
+  font-size: 0.88rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.talk-list .item-title {
+  grid-area: title;
+  font-weight: 600;
+  line-height: 1.5;
+  text-wrap: balance;
+}
+
+.talk-list [lang="en"] {
+  padding-inline: 0.16em;
+}
+
 .timeline-item,
 .feature-card,
 .project-card {
@@ -323,6 +390,27 @@ a:not(.chip-link):hover {
 .author-highlight {
   color: #7b1e3a;
   font-weight: 800;
+}
+
+.education-honor {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0.4rem 0 0;
+  color: var(--accent-deep);
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.education-honor svg {
+  width: 1em;
+  height: 1em;
+  flex: none;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linejoin: round;
 }
 
 .item-date {
@@ -487,7 +575,7 @@ a.project-card:focus-visible h3 {
 
 @media (max-width: 900px) {
   .resume-layout {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .sidebar {
@@ -513,16 +601,18 @@ a.project-card:focus-visible h3 {
     padding: 1.2rem;
   }
 
-  .sidebar h1 {
-    font-size: 2.2rem;
-  }
-
   .item-top {
     grid-template-columns: 1fr;
   }
 
   .item-date {
     text-align: left;
+  }
+
+  .talk-list article {
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas: "title title" "venue year";
+    column-gap: 0.4rem;
   }
 }
 

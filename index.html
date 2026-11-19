@@ -14,8 +14,10 @@
       <main class="resume-page">
         <div class="resume-layout">
           <aside class="sidebar panel">
-            <!-- <span class="eyebrow">Resume</span> -->
-            <h1>Xixian Liang<span class="chinese-name">梁锡贤</span></h1>
+            <header class="profile-header">
+              <img class="portrait" src="./assets/portrait.jpg" alt="Portrait of Xixian Liang" width="1001" height="1280">
+              <h1>Xixian Liang<span class="chinese-name" lang="zh-CN">梁锡贤</span></h1>
+            </header>
             <p class="summary">
               I am currently a Software Engineer at Tencent WXG testing center. I received my master's degree from East China Normal University (ECNU), where I was supervised by
               <a href="https://tingsu.github.io/">Prof. Ting Su</a>. My research focuses on
@@ -122,6 +124,13 @@
                     <div>
                       <h3 class="item-title">MSc in Software Science and Technology</h3>
                       <p class="item-subtitle"><a href="https://english.ecnu.edu.cn/">East China Normal University</a></p>
+                      <p class="education-honor">
+                        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                          <circle cx="12" cy="8" r="5.5"></circle>
+                          <path d="m8 12-2 9 6-3 6 3-2-9"></path>
+                        </svg>
+                        Outstanding Graduate
+                      </p>
                     </div>
                     <div class="item-date">Sep 2023 - Jun 2026</div>
                   </div>
@@ -165,13 +174,14 @@
                 <article class="timeline-item">
                   <div class="item-top">
                     <div>
-                      <h3 class="item-title"><span class="role-tag">intern</span> General Software Engineer</h3>
+                      <h3 class="item-title"><span class="role-tag">intern</span> Research Intern</h3>
                       <p class="item-subtitle">Huawei · CBG<br>User Experience and Technology Innovation</p>
                     </div>
                     <div class="item-date">July 2025 - April 2026</div>
                   </div>
                   <ul class="item-list">
-                    <li>Integrated Kea2 into a HarmonyOS testing platform to detect UX and performance issues, such as display defects, frame drops, and UI stuttering.</li>
+                    <li>Integrated Kea2 into <a href="https://developer.huawei.com/consumer/en/deveco-studio/">DevEco Studio</a> to detect UX and performance issues in HarmonyOS apps, including display defects, frame drops, and UI stuttering.</li>
+                    <li>These testing capabilities shipped with HarmonyOS 6.1 and 7.0 and are now available to HarmonyOS developers.</li>
                   </ul>
                 </article>
                 <article class="timeline-item">
@@ -296,7 +306,26 @@
               </div>
             </section>
 
-            <p class="footer-note">Last updated in September 2026.</p>
+            <section class="section" id="talks">
+              <div class="section-header">
+                <h2>Talks</h2>
+                <span class="section-rule"></span>
+              </div>
+              <div class="talk-list" lang="zh-CN">
+                <article>
+                  <h3 class="item-title">面向移动应用的性质测试技术</h3>
+                  <p class="talk-venue">CCF 中国软件大会（ChinaSoft）</p>
+                  <time datetime="2026">2026</time>
+                </article>
+                <article>
+                  <h3 class="item-title">功能性质驱动的测试技术：<wbr>下一代<span lang="en">GUI</span>自动化测试技术</h3>
+                  <p class="talk-venue">中国互联网测试开发大会（MTSC）</p>
+                  <time datetime="2025">2025</time>
+                </article>
+              </div>
+            </section>
+
+            <p class="footer-note">Last updated in November 2026.</p>
           </section>
         </div>
       </main>
